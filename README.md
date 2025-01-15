@@ -28,7 +28,7 @@ Olá! Meu nome é **Kaio**, sou programador pleno, especializado em **cibersegur
 ## Como me encontrar 📬
 
 - **E-mail**: [kaiocolombaroli1@email.com](mailto\:kaiocolombaroli1@email.com)
-- **LinkedIn**: [linkedin.com/in/kaioexemplo](https://linkedin.com/in/kaioexemplo)
+- **LinkedIn**: [linkedin.com/in/kaioexemplo]([https://linkedin.com/in/kaio-colombaroli](https://www.linkedin.com/in/kaio-colombaroli-b1bb64231/))
 - **Telefone**: [41984711646](tel:41984711646)
 ## Um pouco sobre mim 🌍
 
