@@ -1,4 +1,3 @@
-# Bem-vindo ao meu Cartão de Visitas Digital 🚀
 
 ## Quem sou eu? 👨‍💻
 
